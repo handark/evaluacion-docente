@@ -1,0 +1,1271 @@
+[
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "A",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 11,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 18,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 3,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 7,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 2,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "A",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 10,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 18,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 5,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 8,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 3,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 12,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 15,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "B",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 3,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 9,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 5,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 11,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 18,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "B",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 5,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 7,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 4,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 9,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 17,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 5,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 6,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "C",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 6,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 11,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 17,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "B",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 3,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 6,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 2,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 6,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 13,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 18,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "B",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 3,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 5,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 6,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 10,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 19,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "B",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 5,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 6,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 3,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 10,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 16,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "B",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 2,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 4,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 2,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 7,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 2,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 12,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 18,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "A",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "GERENCIA ESTRATEGICA DE COSTOS",
+    "Letra": "B",
+    "Codigo_Materia": "GECOS11-201 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 1
+  },
+  {
+    "total": 3,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MACRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 7,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 2,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "B",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  },
+  {
+    "total": 4,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 29
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "C",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MICROECONOMIA",
+    "Letra": "D",
+    "Codigo_Materia": "MICRO11-231 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 5
+  },
+  {
+    "total": 1,
+    "Nombre": "MACROECONOMIA",
+    "Letra": "E",
+    "Codigo_Materia": "MACRO11-101 20181",
+    "Codigo": 70558780,
+    "Apellido": "FRANCO LOPEZ",
+    "NroEstudiantesEvaluaron": 17
+  }
+]
