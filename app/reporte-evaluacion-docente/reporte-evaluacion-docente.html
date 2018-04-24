@@ -1,3 +1,118 @@
-<h2>
-    Reporte de Evaluación Docente
-</h2>
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="#">Reporte de Evaluación Docente</a>
+  <form class="form-inline">
+    <button class="btn btn-sm btn-outline-primary" ng-click="imprimirReporte('evaluacion-docente-row')" type="button">Imprimir</button>
+  </form>
+</nav>
+<div class="container-fluid" style="padding-top:20px;" >
+    <div class="row" id="evaluacion-docente-row" >
+        <div class="col-md-12">
+            
+            <table style="border:0;width:100%">
+                <tr>
+                    <td  style="border:0; text-align:left;">
+                        <img style="max-height:100px;" src="../imagenes/logo-iush.png"></img>
+                    </td>
+                    <td  style="border:0;text-align:right;padding-right:20px;">
+                        <strong> Evaluación Docente - Comentarios Semestre 01-2018 (Corte 01 y 02)</strong>
+                        <br>
+                        Nombre Docente: {{ listaEvaluacionDocente[0].Apellido }}
+                        <br>
+                        Fecha expedición: {{ fechaReporte | date:'dd/MM/yyyy h:mma' }}
+                        <br>
+                        Documento de Identidad: {{ listaEvaluacionDocente[0].Codigo }}
+                    </td>
+                </tr>
+            </table>
+            
+            <table style="border-spacing:0;">
+                <tr>
+                    <th rowspan="3" style="padding:3px; background-color:#ccc;width:25%;">
+                        CRITERIO DE EVALUACIÓN
+                    </th>
+                    <th style="border:1px solid #333; padding:3px; background-color:#ccc;width:{{porcentajeAnchoColumnas}}%;">ESTUDIANTES MATRICULADOS POR CURSO</th>
+                    <th ng-repeat="curso in listaCursosAgrupado" style="border:1px solid #333; padding:3px; background-color:#ccc;width:{{porcentajeAnchoColumnas}}%;" ></th>
+                    <td style="border:1px solid #333; padding:3px; background-color:#ccc;width:{{porcentajeAnchoColumnas}}%;" ></td>
+                </tr>
+                <tr>
+                    <th style="border:1px solid #333; padding:3px; background-color:#ccc;width:{{porcentajeAnchoColumnas}}%;" >ESTUDIANTES QUE EVALUARON</th>
+                    <th ng-repeat="curso in listaCursosAgrupado" style="border:1px solid #333; padding:3px; background-color:#ccc;width:{{porcentajeAnchoColumnas}}%;" ></th>
+                    <td style="border:1px solid #333; padding:3px; background-color:#ccc;width:{{porcentajeAnchoColumnas}}%;" ></td>
+                </tr>
+                <tr>
+                    <th style="border:1px solid #333; padding:3px; background-color:#ccc;width:{{porcentajeAnchoColumnas}}%;" >VALORACIÓN</th>
+                    <th ng-repeat="curso in listaCursosAgrupado" style="border:1px solid #333; padding:3px; background-color:#ccc;width:{{porcentajeAnchoColumnas}}%;" >
+                        {{curso.Codigo_Materia + ' ' + curso.Datos[1] }}
+                    </th>
+                    <th style="border:1px solid #333; padding:3px; background-color:#ccc;width:{{porcentajeAnchoColumnas}}%;" >TOTAL</th>
+                </tr>  
+                
+                <tr ng-repeat="pregunta in listaPreguntasAgrupada">
+                    <td style="border:1px solid #333; padding:3px;width:25%;" >
+                        {{pregunta.Pregunta}}
+                    </td>
+                    
+                    <td style="width:{{porcentajeAnchoColumnas}}%;">
+                        <table style="width:100%;border-spacing:0;" >
+                            <tr>
+                                <td style="border:1px solid #333;padding:3px;" >A</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >B</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >C</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >D</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >E</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td ng-repeat="curso in listaCursosAgrupado" style="width:{{porcentajeAnchoColumnas}}%;"  >
+                        <table style="width:100%;border-spacing:0;">
+                            <tr>
+                                <td style="border:1px solid #333;padding:3px;" > {{ obtenerTotalLetra('A', curso.Codigo_Materia, pregunta.Pregunta) }} </td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >{{ obtenerTotalLetra('B', curso.Codigo_Materia, pregunta.Pregunta) }}</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >{{ obtenerTotalLetra('C', curso.Codigo_Materia, pregunta.Pregunta) }}</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >{{ obtenerTotalLetra('D', curso.Codigo_Materia, pregunta.Pregunta) }}</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >{{ obtenerTotalLetra('E', curso.Codigo_Materia, pregunta.Pregunta) }}</td>
+                            </tr>
+                        </table>                
+                    </td>
+                    <td style="border:1px solid #333;" style="width:{{porcentajeAnchoColumnas}}%;" >
+                        <table style="width:100%;border-spacing:0;">
+                            <tr>
+                                <td style="border:1px solid #333;padding:3px;" >{{ obtenerTotalPreguntaLetra('A', pregunta.Pregunta) }}</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >{{ obtenerTotalPreguntaLetra('B', pregunta.Pregunta) }}</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >{{ obtenerTotalPreguntaLetra('C', pregunta.Pregunta) }}</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;" >{{ obtenerTotalPreguntaLetra('D', pregunta.Pregunta) }}</td>
+                            </tr>
+                           <tr>
+                                <td style="border:1px solid #333;padding:3px;">{{ obtenerTotalPreguntaLetra('E', pregunta.Pregunta) }}</td>
+                            </tr>
+                        </table>    
+                    </td>
+                    
+                </tr>
+                
+            </table>
+        </div>
+    </div>
+</div>
